@@ -18,3 +18,4 @@ pluginManagement {
     }
 }
 include("corutine-mongo-chat")
+include("java-mongo-chat")
